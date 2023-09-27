@@ -1,3 +1,8 @@
+### `npm install`
+
+Installs the required modules from the package.json file.
+Required before running the application in development mode.
+
 ### `npm start`
 
 Runs the app in the development mode.\
